@@ -6,6 +6,8 @@ This project provides a REST API for predicting the chances of a ticket getting 
 
 The FastAPI application exposes a machine learning model trained to predict ticket confirmation based on various features like booking status, travel class, and more. The model uses a RandomForestClassifier and is served through a RESTful API.
 
+## Dataset Description 
+Refer this [Link](https://github.com/itsguptaaman/ticket_confirmation_prediction/blob/main/dataset_description.md)
 
 ## Running the API
 
